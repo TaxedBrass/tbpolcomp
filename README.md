@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+The Political Compass is notoriously inaccurate and stupid, so I tried to see if I could make a better version, and I think I did.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Axes are Collectivist vs Individualist (vertically) and Globalist vs Identitarian (horizontally).
 
-## Available Scripts
+The idea is that it mostly aligns with where the normie thinks things go on the traditional political compass, while not being completely incoherent.
 
-In the project directory, you can run:
+Here's a basic summary of the Axes for those not super certain of what they mean (keep in mind, people tend to have a lot of different definitions for these things, and these are just the ones that I'm using).
 
-### `npm start`
+The Collectivist believes in the power of the group, community, or the state over the individual.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Individualist believes in personal freedom, responsibility, and limited government. They prioritize individual rights over group needs.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Globalist here believes in the spread of his ideology globally, to all people, races, religions, etc. They want to export their ideas, they are not at all exclusionary.
 
-### `npm test`
+The Identitarian prioritizes national identity, tradition, sovereignty, and cultural preservation, generally leading to exclusionary policy.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This ends up resulting in a compass without contradiction as seen in the original. It also gets rid of the Authoritarian-Right and Libertarian-Left as ideas, as they're entirely logically incoherent (you can't have individual freedom and also redistributionism and a centrally planned economy, and you can't restrict people's freedoms while also having a free market).
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Naturally, this ends up being, like all other compasses, just an organizational system, something to help our minds categorize things, but I think it does this much better than the original compass does. Let me know what you think.
